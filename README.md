@@ -118,28 +118,59 @@ GitHub  → CodeBuild → CodePipeline → S3
 * Real-time update on every code push
 
 
+# Project Screenshots
 
-##  Screenshots
-
-* CodePipeline stages
-### CI/CD Pipeline
-![Pipeline](Images/pipeline-success.png) 
+## Bucket Policy for S3
+![Bucket Policy for S3](screenshots/bucket-policy-for-s3.png)
 
 
 
+## File Uploaded in S3
+![File in S3](screenshots/file-in-s3.png)
 
 
 
-* CodeBuild logs
-* S3 website output
+## Enable Static Website Hosting - S3
+![Enable Static Website Hosting](screenshots/enable-staticwebsite-hosting-s3.png)
 
----
 
-## 🔗 Live Demo
 
-(Add your S3 website endpoint here)
 
----
+
+## Code Build Creation
+![Code Build Creation](screenshots/code-buildcreation.png)
+
+
+
+## Code Build Success
+![Code Build Success](screenshots/code-build-success.png)
+
+
+## Pipeline Success
+![Pipeline Success](screenshots/pipeline-success.png)
+
+
+## Website Output
+![Website Output](screenshots/website-output.png)
+
+
+
+## Update index.html File in GitHub
+![Update index.html File in GitHub](screenshots/update-index-html-file-in-github.png)
+
+
+## Updated index.html Pipeline Success
+![Updated index.html Pipeline Success](screenshots/updated-index-html-pipeline-success.png)
+
+
+## Website Output After Updating index.html
+![Website Output After Update](screenshots/website-output-after-update-index-html.png)
+
+
+## Logs
+![Logs](screenshots/logs.png)
+
+
 
 ## 📂 Project Files
 
@@ -148,10 +179,9 @@ index.html
 error.html
 buildspec.yml
 README.md
-```
+style.css
 
----
 
 ## 👨‍💻 Author
 
-Your Name.
+Amit Mishra 
