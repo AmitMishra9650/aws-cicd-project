@@ -1,0 +1,95 @@
+timestamp,message
+1775824130812,"[Container] 2026/04/10 12:28:44.027558 Running on CodeBuild On-demand
+"
+1775824130812,"[Container] 2026/04/10 12:28:44.027568 Waiting for agent ping
+"
+1775824130812,"[Container] 2026/04/10 12:28:44.128537 Waiting for DOWNLOAD_SOURCE
+"
+1775824130812,"[Container] 2026/04/10 12:28:49.536112 Phase is DOWNLOAD_SOURCE
+"
+1775824130812,"[Container] 2026/04/10 12:28:49.537690 CODEBUILD_SRC_DIR=/codebuild/output/src1898614732/src/github.com/AmitMishra9650/aws-cicd-project
+"
+1775824130812,"[Container] 2026/04/10 12:28:49.538249 YAML location is /codebuild/output/src1898614732/src/github.com/AmitMishra9650/aws-cicd-project/buildspec.yml
+"
+1775824130812,"[Container] 2026/04/10 12:28:49.540310 Setting HTTP client timeout to higher timeout for Github and GitHub Enterprise sources
+"
+1775824130812,"[Container] 2026/04/10 12:28:49.540439 Processing environment variables
+"
+1775824130812,"[Container] 2026/04/10 12:28:49.757562 No runtime version selected in buildspec.
+"
+1775824130812,"[Container] 2026/04/10 12:28:49.789145 Moving to directory /codebuild/output/src1898614732/src/github.com/AmitMishra9650/aws-cicd-project
+"
+1775824130812,"[Container] 2026/04/10 12:28:49.789168 Cache is not defined in the buildspec
+"
+1775824130812,"[Container] 2026/04/10 12:28:49.824819 Skip cache due to: no paths specified to be cached
+"
+1775824130812,"[Container] 2026/04/10 12:28:49.827017 Registering with agent
+"
+1775824130812,"[Container] 2026/04/10 12:28:49.855567 Phases found in YAML: 2
+"
+1775824130812,"[Container] 2026/04/10 12:28:49.855583  INSTALL: 1 commands
+"
+1775824130812,"[Container] 2026/04/10 12:28:49.855588  BUILD: 1 commands
+"
+1775824130812,"[Container] 2026/04/10 12:28:49.855874 Phase complete: DOWNLOAD_SOURCE State: SUCCEEDED
+"
+1775824130812,"[Container] 2026/04/10 12:28:49.855885 Phase context status code:  Message: 
+"
+1775824130812,"[Container] 2026/04/10 12:28:50.315790 Entering phase INSTALL
+"
+1775824130812,"[Container] 2026/04/10 12:28:50.344261 Running command echo ""Install phase - nothing required""
+"
+1775824130812,"Install phase - nothing required
+"
+1775824130812,"
+"
+1775824130812,"[Container] 2026/04/10 12:28:50.376946 Phase complete: INSTALL State: SUCCEEDED
+"
+1775824130812,"[Container] 2026/04/10 12:28:50.376989 Phase context status code:  Message: 
+"
+1775824130812,"[Container] 2026/04/10 12:28:50.405932 Entering phase PRE_BUILD
+"
+1775824130812,"[Container] 2026/04/10 12:28:50.407834 Phase complete: PRE_BUILD State: SUCCEEDED
+"
+1775824130812,"[Container] 2026/04/10 12:28:50.407854 Phase context status code:  Message: 
+"
+1775824130812,"[Container] 2026/04/10 12:28:50.435939 Entering phase BUILD
+"
+1775824130812,"[Container] 2026/04/10 12:28:50.436989 Running command echo ""Build phase - static website""
+"
+1775824130812,"Build phase - static website
+"
+1775824130812,"
+"
+1775824130812,"[Container] 2026/04/10 12:28:50.442319 Phase complete: BUILD State: SUCCEEDED
+"
+1775824130812,"[Container] 2026/04/10 12:28:50.442343 Phase context status code:  Message: 
+"
+1775824130812,"[Container] 2026/04/10 12:28:50.472161 Entering phase POST_BUILD
+"
+1775824130812,"[Container] 2026/04/10 12:28:50.474666 Phase complete: POST_BUILD State: SUCCEEDED
+"
+1775824130812,"[Container] 2026/04/10 12:28:50.474681 Phase context status code:  Message: 
+"
+1775824130812,"[Container] 2026/04/10 12:28:50.549554 Set report auto-discover timeout to 5 seconds
+"
+1775824130812,"[Container] 2026/04/10 12:28:50.549641 Expanding base directory path:  .
+"
+1775824130812,"[Container] 2026/04/10 12:28:50.551280 Assembling file list
+"
+1775824130812,"[Container] 2026/04/10 12:28:50.551290 Expanding .
+"
+1775824130812,"[Container] 2026/04/10 12:28:50.552929 Expanding file paths for base directory .
+"
+1775824130812,"[Container] 2026/04/10 12:28:50.552941 Assembling file list
+"
+1775824130812,"[Container] 2026/04/10 12:28:50.552945 Expanding **/*
+"
+1775824130812,"[Container] 2026/04/10 12:28:50.554905 No matching auto-discover report paths found
+"
+1775824130812,"[Container] 2026/04/10 12:28:50.554992 Report auto-discover file discovery took 0.005366 seconds
+"
+1775824130812,"[Container] 2026/04/10 12:28:50.555006 Phase complete: UPLOAD_ARTIFACTS State: SUCCEEDED
+"
+1775824130812,"[Container] 2026/04/10 12:28:50.555067 Phase context status code:  Message: 
+"

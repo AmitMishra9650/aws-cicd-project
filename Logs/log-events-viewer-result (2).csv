@@ -1,0 +1,109 @@
+timestamp,message
+1775823796490,"[Container] 2026/04/10 12:23:13.965347 Running on CodeBuild On-demand
+"
+1775823796490,"[Container] 2026/04/10 12:23:13.965362 Waiting for agent ping
+"
+1775823796490,"[Container] 2026/04/10 12:23:14.167454 Waiting for DOWNLOAD_SOURCE
+"
+1775823796490,"[Container] 2026/04/10 12:23:15.487619 Phase is DOWNLOAD_SOURCE
+"
+1775823796490,"[Container] 2026/04/10 12:23:15.495264 CODEBUILD_SRC_DIR=/codebuild/output/src369664965/src
+"
+1775823796490,"[Container] 2026/04/10 12:23:15.496573 YAML location is /codebuild/output/src369664965/src/buildspec.yml
+"
+1775823796490,"[Container] 2026/04/10 12:23:15.501118 Setting HTTP client timeout to higher timeout for S3 source
+"
+1775823796490,"[Container] 2026/04/10 12:23:15.501214 Processing environment variables
+"
+1775823796490,"[Container] 2026/04/10 12:23:15.723394 No runtime version selected in buildspec.
+"
+1775823796490,"[Container] 2026/04/10 12:23:15.739104 Moving to directory /codebuild/output/src369664965/src
+"
+1775823796490,"[Container] 2026/04/10 12:23:15.739130 Cache is not defined in the buildspec
+"
+1775823796490,"[Container] 2026/04/10 12:23:15.774379 Skip cache due to: no paths specified to be cached
+"
+1775823796490,"[Container] 2026/04/10 12:23:15.774775 Registering with agent
+"
+1775823796490,"[Container] 2026/04/10 12:23:15.803583 Phases found in YAML: 2
+"
+1775823796490,"[Container] 2026/04/10 12:23:15.803601  INSTALL: 1 commands
+"
+1775823796490,"[Container] 2026/04/10 12:23:15.803606  BUILD: 1 commands
+"
+1775823796490,"[Container] 2026/04/10 12:23:15.803884 Phase complete: DOWNLOAD_SOURCE State: SUCCEEDED
+"
+1775823796490,"[Container] 2026/04/10 12:23:15.803894 Phase context status code:  Message: 
+"
+1775823796490,"[Container] 2026/04/10 12:23:15.893583 Entering phase INSTALL
+"
+1775823796490,"[Container] 2026/04/10 12:23:15.924585 Running command echo ""Install phase - nothing required""
+"
+1775823796490,"Install phase - nothing required
+"
+1775823796490,"
+"
+1775823796490,"[Container] 2026/04/10 12:23:15.958110 Phase complete: INSTALL State: SUCCEEDED
+"
+1775823796490,"[Container] 2026/04/10 12:23:15.958158 Phase context status code:  Message: 
+"
+1775823796490,"[Container] 2026/04/10 12:23:15.988879 Entering phase PRE_BUILD
+"
+1775823796490,"[Container] 2026/04/10 12:23:15.990612 Phase complete: PRE_BUILD State: SUCCEEDED
+"
+1775823796490,"[Container] 2026/04/10 12:23:15.990624 Phase context status code:  Message: 
+"
+1775823796490,"[Container] 2026/04/10 12:23:16.020589 Entering phase BUILD
+"
+1775823796490,"[Container] 2026/04/10 12:23:16.021698 Running command echo ""Build phase - static website""
+"
+1775823796490,"Build phase - static website
+"
+1775823796490,"
+"
+1775823796490,"[Container] 2026/04/10 12:23:16.027436 Phase complete: BUILD State: SUCCEEDED
+"
+1775823796490,"[Container] 2026/04/10 12:23:16.027452 Phase context status code:  Message: 
+"
+1775823796490,"[Container] 2026/04/10 12:23:16.057389 Entering phase POST_BUILD
+"
+1775823796490,"[Container] 2026/04/10 12:23:16.059018 Phase complete: POST_BUILD State: SUCCEEDED
+"
+1775823796490,"[Container] 2026/04/10 12:23:16.059039 Phase context status code:  Message: 
+"
+1775823796490,"[Container] 2026/04/10 12:23:16.136757 Expanding base directory path: .
+"
+1775823796490,"[Container] 2026/04/10 12:23:16.138895 Assembling file list
+"
+1775823796490,"[Container] 2026/04/10 12:23:16.138907 Expanding .
+"
+1775823796490,"[Container] 2026/04/10 12:23:16.140898 Expanding file paths for base directory .
+"
+1775823796490,"[Container] 2026/04/10 12:23:16.140912 Assembling file list
+"
+1775823796490,"[Container] 2026/04/10 12:23:16.140916 Expanding **/*
+"
+1775823796490,"[Container] 2026/04/10 12:23:16.142956 Found 3 file(s)
+"
+1775823796490,"[Container] 2026/04/10 12:23:16.144557 Set report auto-discover timeout to 5 seconds
+"
+1775823796490,"[Container] 2026/04/10 12:23:16.144602 Expanding base directory path:  .
+"
+1775823796490,"[Container] 2026/04/10 12:23:16.147520 Assembling file list
+"
+1775823796490,"[Container] 2026/04/10 12:23:16.147538 Expanding .
+"
+1775823796490,"[Container] 2026/04/10 12:23:16.149617 Expanding file paths for base directory .
+"
+1775823796490,"[Container] 2026/04/10 12:23:16.149631 Assembling file list
+"
+1775823796490,"[Container] 2026/04/10 12:23:16.149674 Expanding **/*
+"
+1775823796490,"[Container] 2026/04/10 12:23:16.151701 No matching auto-discover report paths found
+"
+1775823796490,"[Container] 2026/04/10 12:23:16.151715 Report auto-discover file discovery took 0.007157 seconds
+"
+1775823796490,"[Container] 2026/04/10 12:23:16.151726 Phase complete: UPLOAD_ARTIFACTS State: SUCCEEDED
+"
+1775823796490,"[Container] 2026/04/10 12:23:16.151746 Phase context status code:  Message: 
+"
