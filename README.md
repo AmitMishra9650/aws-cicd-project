@@ -6,10 +6,10 @@ This project demonstrates a CI/CD pipeline where code changes pushed to GitHub a
 
 ##  Services Used
 
-Amazon S3 (Static website hosting)
-AWS CodeBuild (Build service)
-AWS CodePipeline (CI/CD automation)
-GitHub (Source code repository)
+* Amazon S3 (Static website hosting)
+* AWS CodeBuild (Build service)
+* AWS CodePipeline (CI/CD automation)
+* GitHub (Source code repository)
 
 
 
