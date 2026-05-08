@@ -119,7 +119,6 @@ GitHub  → CodeBuild → CodePipeline → S3
 
 
 # Project Screenshots
-
 ## Bucket Policy for S3
 ![Bucket Policy for S3](screenshots/bucket-policy-for-s3.png)
 
@@ -160,7 +159,7 @@ GitHub  → CodeBuild → CodePipeline → S3
 
 
 ## Updated index.html Pipeline Success
-![Updated index.html Pipeline Success](screenshots/updated-index-html-pipeline-success.png)
+![Updated index.html Pipeline Success](screenshots/updated-index-html-pipeline-success..png)
 
 
 ## Website Output After Updating index.html
@@ -169,6 +168,8 @@ GitHub  → CodeBuild → CodePipeline → S3
 
 ## Logs
 ![Logs](screenshots/logs.png)
+
+
 
 
 
