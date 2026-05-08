@@ -119,34 +119,19 @@ GitHub  → CodeBuild → CodePipeline → S3
 
 
 # Project Screenshots
+
 ## Bucket Policy for S3
-![Bucket Policy for S3](screenshots/bucket-policy-for-s3.png)
+![Bucket Policy for S3](screenshots/Bucket-Policy-for-S3.png)
 
 
 
 ## File Uploaded in S3
-![File in S3](screenshots/file-in-s3.png)
+![File in S3](screenshots/File-in-S3.png)
 
 
 
 ## Enable Static Website Hosting - S3
-![Enable Static Website Hosting](screenshots/enable-staticwebsite-hosting-s3.png)
-
-
-
-
-
-## Code Build Creation
-![Code Build Creation](screenshots/code-buildcreation.png)
-
-
-
-## Code Build Success
-![Code Build Success](screenshots/code-build-success.png)
-
-
-## Pipeline Success
-![Pipeline Success](screenshots/pipeline-success.png)
+![Enable Static Website Hosting](screenshots/Enable-StaticWebsiteHosting-S3.png)
 
 
 ## Website Output
@@ -154,23 +139,33 @@ GitHub  → CodeBuild → CodePipeline → S3
 
 
 
+## Code Build Creation
+![Code Build Creation](screenshots/Code-buildCreation.png)
+
+
+
+## Code Build Success
+![Code Build Success](screenshots/Code-build-Success.png)
+
+
+## Pipeline Success
+![Pipeline Success](screenshots/pipeline-success.png)
+
+
 ## Update index.html File in GitHub
-![Update index.html File in GitHub](screenshots/update-index-html-file-in-github.png)
+![Update index.html File in GitHub](screenshots/Update-index.html-file-in-Github.png)
 
 
 ## Updated index.html Pipeline Success
-![Updated index.html Pipeline Success](screenshots/updated-index-html-pipeline-success..png)
+![Updated index.html Pipeline Success](screenshots/Updated-index.html-pipelineSuccess.png)
 
 
 ## Website Output After Updating index.html
-![Website Output After Update](screenshots/website-output-after-update-index-html.png)
+![Website Output After Update](screenshots/website-output-after-update-index.html.png)
 
 
 ## Logs
-![Logs](screenshots/logs.png)
-
-
-
+![Logs](screenshots/Logs.png)
 
 
 ## 📂 Project Files
